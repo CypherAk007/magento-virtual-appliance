@@ -11,7 +11,7 @@ vagrant init redbox-digital/appliance
 vagrant up
 ```
 
-## What's Inside?
+## What's Inside - A quick overview?
 
 - CentOS 6.
 - PHP 5.5, with everything needed to run Magento;
